@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ResultGenerator.iml" filepath="$PROJECT_DIR$/ResultGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResultGenerator-grailsPlugins.iml" filepath="$PROJECT_DIR$/ResultGenerator-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
